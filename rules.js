@@ -19,7 +19,7 @@ rules:
 		'func-call-spacing': 2,
 		'generator-star-spacing': 2,
 		'guard-for-in': 2,
-		'indent': [ 0, 'tab'],
+		'indent': [ 'error', 'tab'],
 		'key-spacing': [ 2,
 		{
 			singleLine:
